@@ -1,12 +1,8 @@
 Kauno lisäämä teksti
 Nicon lisäämä teksti
 Eeron lisäämäteksti
-<<<<<<< HEAD
 Henrin lisäämä teksti
 tuukan lisäämä teksti
 Jannen lisäämä teksti
-=======
 Teemun lisäämäteksti
 Teemun lisäämäteksti
->>>>>>> 794a91577082855e552a17f157cedaa7c1facd94
-JANNE LISÄS UUDELLEEN TEKSTIÄ!
