@@ -1,1 +1,0 @@
-S24ÄTIV-ryhmän yhteinen projektikansio
